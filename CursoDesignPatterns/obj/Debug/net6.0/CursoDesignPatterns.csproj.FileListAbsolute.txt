@@ -1,0 +1,15 @@
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfo.cs
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.exe
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.deps.json
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.runtimeconfig.json
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.dll
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.dll
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\refint\CursoDesignPatterns.dll
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.genruntimeconfig.cache
+C:\Treinamento\TreinamentoAluraCSharp - DesignPatterns\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\ref\CursoDesignPatterns.dll
